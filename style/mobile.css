@@ -1,5 +1,9 @@
 @media (max-width: 35em) {
 
+html {
+    animation: text-larger 2s linear forwards;
+}
+
 main {
     align-items: flex-start!important;
     justify-content: flex-start!important;
@@ -12,12 +16,10 @@ main {
 
 /* About page */
 
-main {
+.main-about {
     align-content: start!important;
     justify-items: start!important;
 
 }
-
-
 
 }

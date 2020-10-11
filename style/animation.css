@@ -157,7 +157,7 @@
     }
 
     80% {
-        background: white;
+        background: #0b182c;
     }
 
     100% {
@@ -239,5 +239,30 @@
     100% {
         margin-bottom: 0;
         opacity: 1;
+    }
+}
+
+@keyframes p-5 {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        margin-bottom: 0;
+        opacity: 1;
+    }
+}
+
+@keyframes text-larger {
+    0% {
+        font-size: 100%;
+    }
+
+    100% {
+        font-size: 110%;
     }
 }

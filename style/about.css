@@ -47,7 +47,7 @@ html {
 }
 
 .about {
-    animation: gradients-reverse 2s ease forwards;
+    animation: gradients-reverse 1s ease forwards;
 
     color: #0b182c;
 }
@@ -74,7 +74,22 @@ p {
     font-weight: 300;
     line-height: 1.1rem;
 
-    /* animation: about-tag 2.2s linear forwards; */
+}
+
+a {
+    margin-top: 1rem;
+
+    text-decoration: none;
+
+    font-size: .8rem;
+    color: #D36135!important;
+
+    transition: all .1s ease;
+}
+
+a:hover {
+    color:#ec6c39!important;
+    font-weight: 600;
 }
 
 .about-container {
@@ -95,6 +110,10 @@ p {
 
 .p-4 {
     animation: p-4 3.8s linear forwards;
+}
+
+.p-5 {
+    animation: p-5 4s linear forwards;
 }
 
 .contact-container {
