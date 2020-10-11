@@ -1,0 +1,13 @@
+@media (max-width: 35em) {
+
+main {
+    align-items: flex-start!important;
+    justify-content: flex-start!important;
+
+}
+
+.main-container {
+    padding: 10rem 2rem 0 2rem;
+}
+
+}

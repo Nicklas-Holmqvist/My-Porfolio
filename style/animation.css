@@ -1,0 +1,166 @@
+@keyframes gradients {
+    0% {
+        background: white;
+    }
+
+    30% {
+        background: white;
+    }
+
+    50% {
+        background: white;
+    }
+
+    80% {
+        background: #0b182c;
+    }
+
+    100% {
+        background: #0b182cFe;
+    }
+}
+
+
+@keyframes title {
+    0% {
+        margin-bottom: -15rem;
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        margin-bottom: 0;
+        opacity: 1;
+    }
+}
+
+@keyframes tag {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    70% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes menu {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+@keyframes portfolio {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes github {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes om-mig {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes color-shift {
+    0% {
+        color:#0b182c;
+    }
+
+    50% {
+        color:#0b182c;
+    }
+
+    100% {
+        color:#f1f1f1;
+    }
+}
+
+@keyframes icon {
+    0% {
+        opacity: 0;
+    }
+
+    80% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+/* Animation for about page */
+
+@keyframes gradients-reverse {
+    0% {
+        background: #0b182c;
+    }
+
+    30% {
+        background: #0b182c;
+    }
+
+    50% {
+        background: white;
+    }
+
+    80% {
+        background: white;
+    }
+
+    100% {
+        background: white;
+    }
+}
