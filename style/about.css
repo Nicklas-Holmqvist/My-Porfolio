@@ -4,8 +4,6 @@
     box-sizing: border-box;
 
     font-family: 'Antic Slab', serif;
-
-    /* color: #102542; */
 }
 
 html {
@@ -78,6 +76,7 @@ p {
 
 a {
     margin-top: 1rem;
+    padding-left: .5rem;
 
     text-decoration: none;
 

@@ -1,14 +1,14 @@
 @keyframes gradients {
     0% {
-        background: white;
+        background: rgb(245, 245, 245);
     }
 
     30% {
-        background: white;
+        background: rgb(245, 245, 245);
     }
 
     50% {
-        background: white;
+        background: rgb(245, 245, 245);
     }
 
     80% {
@@ -122,7 +122,7 @@
     }
 
     100% {
-        color:#f1f1f1;
+        color:rgb(245, 245, 245);
     }
 }
 
@@ -161,7 +161,7 @@
     }
 
     100% {
-        background: white;
+        background: rgb(245, 245, 245);
     }
 }
 
